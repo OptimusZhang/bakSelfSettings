@@ -1,0 +1,6 @@
+
+C:\TEMP\testWorkspace>echo Start! 
+Start!
+Please input the branchName:
+
+C:\TEMP\testWorkspace>if exist "C:\TEMP\testWorkspace\testProject"

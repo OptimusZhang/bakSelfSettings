@@ -1,0 +1,1 @@
+call CheckoutBranch4KDDI.bat > log.txt

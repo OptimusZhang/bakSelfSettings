@@ -1,0 +1,5 @@
+#issue run npm install -g bower >> network error
+>> npm config set proxy http://userid:pwd@host:port
+>> npm config set https-proxy http://userid:pwd@host:port
+
+then OK!

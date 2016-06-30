@@ -1,0 +1,8 @@
+first set git global config
+  >>git config --global http.proxy http://userid:password@host:port
+  >>git config --global https.proxy http://userid:password@host:port
+  >> git config -l
+
+then set git to ignore ssl issue:
+  >> #issue:SSL certificate problem:unable to get local issuer certification
+  >> git config --global http.sslVerify false
